@@ -1,0 +1,16 @@
+.home-container {
+  text-align: center;
+  padding: 20px;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuffingroup.com%2Fblog%2Fbest-food-website-design%2F&psig=AOvVaw0gvupKKO4AyvRMgocdFCn9&ust=1724995143910000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCo_ei5mYgDFQAAAAAdAAAAABAJ'); /* Adjust path as needed */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating the image */
+}
+
+.home-image {
+  width: 100%;
+  max-width: 600px; /* Adjust as needed */
+  height: auto;
+  margin-top: 20px;
+  border-radius: 8px;
+}
